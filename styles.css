@@ -1,0 +1,26 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Chatbot Button */
+#chatbot-btn {
+    transition: background 0.3s ease;
+}
+#chatbot-btn:hover {
+    background: #dde1e9; /* Darker blue */
+}
+
+/* Chatbot Box */
+#chatbot-box {
+    width: 250px;
+    max-height: 300px;
+}
+body {
+    background: url('company_img.jpg') no-repeat center center;
+    background-size: cover;
+    height: 100vh; /* Makes sure it fits within the viewport */
+}
+
+
+
